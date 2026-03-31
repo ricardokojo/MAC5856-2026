@@ -1,7 +1,7 @@
 ---
 title: 'Tutorial 3'
 description: 'Following tutorial 3'
-pubDate: '2026/03/16'
+pubDate: '2026/03/17'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
