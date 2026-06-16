@@ -1,7 +1,7 @@
 ---
 title: "Phase 2: contributing to cregit"
 description: ""
-pubDate: "2026/04/19"
+pubDate: "2026/06/15"
 heroImage: "../../assets/blog-placeholder-5.jpg"
 ---
 
